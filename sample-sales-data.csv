@@ -1,0 +1,7 @@
+Date,Product,Sales,Region
+2023-01-01,Apple,100,North
+2023-01-01,Banana,150,South
+2023-01-02,Apple,200,North
+2023-01-02,Banana,180,South
+2023-01-03,Apple,50,West
+2023-01-03,Banana,120,East
